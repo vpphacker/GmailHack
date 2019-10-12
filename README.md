@@ -3,7 +3,7 @@
 This tool do Brute Force attack on your Given email 📧 account.
 Installation :
 
-Termux 
+## Termux 
 
 ```html
 $ apt install git 
