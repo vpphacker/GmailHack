@@ -5,6 +5,7 @@ Installation :
 
 Termux 
 
+'''html
 $ apt install git 
 
 $ apt install python2
