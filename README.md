@@ -7,7 +7,7 @@ Termux
 
 ```html
 $ apt install git 
-```
+
 $ apt install python2
 
 $ apt update 
@@ -19,6 +19,7 @@ $ cd GmailHack
 $ chmod +x *
 
 $ python2 gmailhack.py
+```
 
 This tool will gide you 
 
